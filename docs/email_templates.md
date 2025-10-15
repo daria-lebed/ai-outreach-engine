@@ -10,6 +10,7 @@ Saw {hook_note}. Are you currently doing outbound with personalization, or is it
 If now’s not the right time or not relevant — just let me know with a quick no.
 — Daria
 
+---
 
 ### How personalization works
 Each template supports light personalization:
