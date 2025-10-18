@@ -35,3 +35,23 @@ This engine creates **smart outbound**: meaningful, personalized, scalable — w
 ---
 
 ## 📂 Project Structure
+
+ai-outreach-engine
+│
+├── data
+│   ├── inputs              # Lead lists (CSV)
+│   └── outputs             # AI generated messages
+├── docs                    # Project documentation
+│   ├── architecture.md     # System architecture & workflow
+│   └── email_templates.md  # AI outreach message templates
+├── src                     # Core code
+│   ├── io_csv.py
+│   ├── templater.py
+│   ├── ai_client.py
+│   ├── ai_email_generator.py
+│   ├── ai_dm_generator.py
+│   ├── pipeline.py
+│   └── dm_pipeline.py
+├── .env.example
+├── requirements.txt
+└── README.md
