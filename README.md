@@ -55,3 +55,60 @@ ai-outreach-engine
 ├── .env.example
 ├── requirements.txt
 └── README.md
+
+---
+---
+
+Поняла, даю одним готовым блоком — просто скопируй и вставь в README.md после Project Structure. Ничего менять не нужно.
+
+⸻
+
+✅ Скопируй это целиком в README:
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/daria-lebed/ai-outreach-engine.git
+cd ai-outreach-engine
+
+Create virtual environment & install dependencies:
+
+python3 -m venv .venv
+source .venv/bin/activate      # Mac/Linux
+# .venv\Scripts\activate       # Windows
+
+pip install -r requirements.txt
+
+Configure environment:
+
+cp .env.example .env
+# Add your OPENAI_API_KEY inside .env
+
+
+⸻
+
+▶️ Usage
+
+Generate personalized cold emails
+
+python3 src/pipeline.py
+
+Output file:
+
+data/outputs/emails_generated.csv
+
+Generate LinkedIn DMs
+
+python3 src/dm_pipeline.py
+
+Output file:
+
+data/outputs/dm_ai_generated.csv
+
+
+⸻
+
