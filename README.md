@@ -56,6 +56,8 @@ ai-outreach-engine
 ├── requirements.txt
 └── README.md
 
+---
+
 ## ⚙️ Installation
 
 Clone the repository:
@@ -63,42 +65,46 @@ Clone the repository:
 ```bash
 git clone https://github.com/daria-lebed/ai-outreach-engine.git
 cd ai-outreach-engine
+```
 
-## Create virtual environment & install dependencies:
+Create virtual environment and install dependencies:
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate      # Mac/Linux
 # .venv\Scripts\activate       # Windows
-
 pip install -r requirements.txt
+```
 
-## Configure environment:
+Configure environment:
+
 ```bash
 cp .env.example .env
 # Add your OPENAI_API_KEY inside .env
+```
 
+---
 
-⸻
+## ▶️ Usage
 
-▶️ Usage
-
-## Generate personalized cold emails
+### Generate personalized cold emails
 ```bash
 python3 src/pipeline.py
-
-## Output file:
-```bash
+```
+Output file:
+```
 data/outputs/emails_generated.csv
+```
 
-## Generate LinkedIn DMs
+---
+
+### Generate LinkedIn DMs
 ```bash
 python3 src/dm_pipeline.py
-
-## Output file:
-```bash
+```
+Output file:
+```
 data/outputs/dm_ai_generated.csv
+```
 
-
-⸻
-
+---
