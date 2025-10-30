@@ -1,24 +1,15 @@
-# Outreach Demo Report
+# AI Outreach Demo Report
 
-## Context
-Leads from ICP list (CSV). Goal: fast, human-like personalization at scale.
+Goal: show how AI generates real human-like messages.
 
-## Sample Email (AI)
-Subject: Quick idea for {Company}
-Hi {FirstName}, noticed {HookNote}. I build AI-powered outbound systems that lift reply rates without spam tactics. Worth a quick look?
+Example Email:
+"Hey Robert, saw your team scaling new GTM tools — I build AI systems that make outbound less robotic. Worth a quick chat?"
 
-## Sample LinkedIn DM (AI)
-Hi {FirstName}, saw {HookNote}. I’m building simple AI outreach that keeps messages human. Open to connect?
+Result:
+- faster lead response  
+- 0 spam words  
+- personalized tone
 
-## Before → After
-Before: manual writing, inconsistent tone, low reply.
-After: standardized, contextual messages; faster throughput.
-
-## Metrics To Track (next iteration)
-• Reply rate • Positive interest rate • Time saved (per 50 leads) • Bounce/Spam • Lead quality tags
-
-## Roadmap
-Enrichment → Research snippets → HubSpot sync → Follow-ups → Scoring.
-git add docs/outreach_demo_report.md
-git commit -m "docs: add outreach demo report"
-git push
+Next steps:
+→ add HubSpot sync  
+→ add lead enrichment
