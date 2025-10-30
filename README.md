@@ -109,10 +109,7 @@ data/outputs/dm_ai_generated.csv
 
 ---
 
-## 📊 Demo & Report
-• Screenshots: see `/docs`  
-• Report: [`docs/outreach_demo_report.md`](docs/outreach_demo_report.md)
+## 📊 Demo
+See `/docs/outreach_demo_report.md` for examples of AI outputs and metrics.
 
-git add README.md
-git commit -m "docs: link demo report and screenshots"
-git push
+
