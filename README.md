@@ -1,5 +1,3 @@
-# 🚀 AI Outreach Engine  
-### Modern AI + RevOps system for scalable outbound
 <p align="center">
   <img src="https://github.com/daria-lebed/ai-outreach-engine/blob/main/docs/your_banner.png" 
        alt="AI Outreach Engine Banner" 
