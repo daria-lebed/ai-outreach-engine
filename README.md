@@ -9,6 +9,14 @@
 <p align="center">
   <em>GPT-powered outbound automation — scale outreach without losing personalization</em>
 </p>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white"></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?logo=openai&logoColor=white"></a>
+  <a href="https://www.hubspot.com/"><img src="https://img.shields.io/badge/HubSpot-CRM-orange?logo=hubspot&logoColor=white"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green"></a>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen">
+  <img src="https://img.shields.io/badge/AI%20RevOps-Automation-purple">
+</p>
 
 This project is part of my AI RevOps System — a set of tools and workflows that combine **revenue operations, AI automation, and GTM execution**.  
 The goal: build predictable pipeline without spam, manual work, or chaotic processes.
