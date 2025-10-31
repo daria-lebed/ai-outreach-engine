@@ -36,8 +36,8 @@ This engine creates **smart outbound**: meaningful, personalized, scalable — w
 
 ## 📂 Project Structure
 
+<pre>
 ai-outreach-engine/
-│
 ├── data/
 │   ├── inputs/              # Lead lists (CSV)
 │   └── outputs/             # AI-generated messages
@@ -57,7 +57,7 @@ ai-outreach-engine/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
+</pre>
 
 ---
 
