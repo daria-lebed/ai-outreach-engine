@@ -1,5 +1,16 @@
 # 🚀 AI Outreach Engine  
 ### Modern AI + RevOps system for scalable outbound
+<p align="center">
+  <img src="https://github.com/daria-lebed/ai-outreach-engine/blob/main/docs/your_banner.png" 
+       alt="AI Outreach Engine Banner" 
+       width="90%">
+</p>
+
+<h1 align="center">🤖 AI Outreach Engine</h1>
+
+<p align="center">
+  <em>GPT-powered outbound automation — scale outreach without losing personalization</em>
+</p>
 
 This project is part of my AI RevOps System — a set of tools and workflows that combine **revenue operations, AI automation, and GTM execution**.  
 The goal: build predictable pipeline without spam, manual work, or chaotic processes.
